@@ -5,7 +5,7 @@ Check out my **[portfolio](https://www.farstad.dev/)**!
 <br>
 <br>
 
-# My stack:
+# My stack includes:
 ### Front-end
 <div>
     <img display="inline-block" src="html-5-svgrepo-com.svg" width="40px" height="auto">
