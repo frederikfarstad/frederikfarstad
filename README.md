@@ -1,7 +1,4 @@
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=frederikfarstad&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
-</p>
-
+## Hi there!
 <!--
 **frederikfarstad/frederikfarstad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,5 +13,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![](https://hit.yhype.me/github/profile?user_id=92976330)
