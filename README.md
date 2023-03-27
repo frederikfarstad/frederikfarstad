@@ -6,7 +6,6 @@ Check out my **[portfolio](https://www.farstad.dev/)**!
 <br>
 
 # My stack:
-
 ### Front-end
 <div>
     <img display="inline-block" src="html-5-svgrepo-com.svg" width="40px" height="auto">
@@ -18,8 +17,6 @@ Check out my **[portfolio](https://www.farstad.dev/)**!
     <img display="inline-block" src="vite-svgrepo-com.svg" width="40px" height="auto">
 </div>
 
-<br>
-
 ### Back-end
 <div>
     <img display="inline-block" src="python-svgrepo-com.svg" width="40px" height="auto">
@@ -29,8 +26,6 @@ Check out my **[portfolio](https://www.farstad.dev/)**!
     <img display="inline-block" src="firebase-svgrepo-com.svg" width="40px" height="auto">
     <img display="inline-block" src="sql-svgrepo-com.svg" width="40px" height="auto">
 </div>
-
-<br>
 <br>
 
 # Contact me:
