@@ -38,7 +38,7 @@ Check out my **[portfolio](https://www.farstad.dev/)**!
     <a display="inline-block" href="mailto:frederikfarstad@gmail.com">
         <img src="gmail-svgrepo-com.svg" width="40px" height="auto">
     </a>
-    <a display="inline-block" href="https://www.linkedin.com/in/frederik-andreas-brunvoll-farstad/" target="_blank">
+    <a display="inline-block" target="_blank" href="https://www.linkedin.com/in/frederik-andreas-brunvoll-farstad/">
         <img src="linkedin-svgrepo-com.svg" width="40px" height="auto">
     </a>
 </div>
