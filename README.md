@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=frederikfarstad&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
-</p> <br>
+</p>
 
 <!--
 **frederikfarstad/frederikfarstad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
