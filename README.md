@@ -1,6 +1,6 @@
 # Welcome!
 
-My name is Frederik Farstad. I am a 2nd year computer science student @ Norwegian University of Science and Technology (NTNU)👨‍🎓  
+My name is Frederik Farstad. I am a 3rd year computer science student @ Norwegian University of Science and Technology (NTNU)👨‍🎓  
 Check out my **[portfolio](https://www.farstad.dev/)**!
 <br>
 <br>
