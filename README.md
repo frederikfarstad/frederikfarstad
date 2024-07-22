@@ -1,6 +1,6 @@
 # Welcome!
 
-My name is Frederik Farstad. I am a 3rd year computer science student @ Norwegian University of Science and Technology (NTNU)👨‍🎓  
+My name is Frederik Farstad. I am a currently pursuing a masters degree in Informatics with a specialization in Artificial Intelligence @ Norwegian University of Science and Technology (NTNU)👨‍🎓  
 <br>
 
 # Contact me:
