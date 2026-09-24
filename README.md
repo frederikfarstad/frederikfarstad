@@ -1,6 +1,6 @@
 # Welcome!
 
-My name is Frederik Farstad. I am a currently pursuing a masters degree in Artificial Intelligence @ Norwegian University of Science and Technology (NTNU)👨‍🎓  
+My name is Frederik Farstad. I am a currently working as a developer at Bekk!  
 <br>
 
 # Contact me:
